@@ -1,0 +1,27 @@
+body{
+    /* background: red; */
+}
+
+#video-list .panel-body{
+    padding-left: 0px;
+}
+
+.video-image-mask{
+    width: 150px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.video-image-mask .video-image{
+    width: 50%;
+}
+
+.video-title{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Selecciono la letra a */
+.video-title a{
+    color: #444;
+ }
